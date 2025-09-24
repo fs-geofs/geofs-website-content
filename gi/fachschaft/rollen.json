@@ -1,0 +1,197 @@
+{
+    "_comment": "für die Rollen sind role, names und description alle required!!!",
+    "wahldatum": "25. Juni 2025",
+    "protokoll": "https://giv-geofs.uni-muenster.de/protokolle_json/2025/FSV_Protokoll_Konstituierendensitzung_20250625.pdf",
+    "roles": [
+        {
+            "role": "1. Vorsitzender",
+            "names": "Andi",
+            "description": "In meinem zweiten Semester in der Fachschaft wurde ich zum neuen 1. Vorsitzenden gewählt. Ich lade zu den wöchentlichen Sitzungen ein und kümmere mich darum, dass die Fachschaftsarbeit reibunglos klappt."
+        },
+	    {
+	        "role": "1. stv. Vorsitzender",
+	        "names": "Humam",
+	        "description": "Vertritt den 1. Vorsitzenden"
+	    },
+        {
+            "role": "2. stv. Vorsitzender",
+            "names": "Julius",
+            "description": "Vertritt den 1. Vorsitzenden"
+        },
+        {
+            "role": "Finanzwart",
+            "names": "Florian",
+            "description": "Auch wenn wir der Arbeit in der Fachschaft unentgeltlich nachgehen, so bleibt das Thema der Finanzen in der Fachschaft nicht ganz außen vor. Geld sprudelt aus ominösen Quellen, es wird gewaschen und getrocknet, gedruckt und kopiert. Über diesen Prozess der unfairen Verteilung geringer Summen behalten wir stets den Überblick."
+        },
+	    {
+	        "role": "stv. Finanzwart",
+	        "names": "Finja",
+	        "description": "Vertritt den Finanzwart"
+	    },
+        {
+            "role": "Kassenprüfer",
+            "names": "Lukas",
+            "description": "Ich überprüfe, ob der Gelddrucker das Semester über gut von den Finanzwarten bedient wurde, und entlaste sie, sofern sie dafür gesorgt haben, dass die Faschaft für jegliche Aktionen stets flüssig war."
+        },
+        {
+            "role": "Ersti-Beauftragte",
+            "names": "Lotta, Lukas, Theresa, Julius, Florian, Humam, Matteo",
+            "description": "Als Ersti-Beauftragte ist es nicht nur unsere Aufgabe und große Freude, alle Erstis in der O-Woche und auf dem Erstiwochenende zu bespaßen und ihnen alle Illusionen der seriösen und vorbildlichen Studenten in den höheren Semestern zu rauben, wir helfen auch gerne allen Neulingen, wenn sie Fragen oder Unklarheiten haben oder einfach nur die nächstbeste Kneipe in Münster finden wollen."
+        },
+        {
+            "role": "Bachelor-Beauftragte",
+            "names": "Humam, Finja",
+            "description": "Ansprechpartner für alle Bachelorstudierenden."
+        },
+        {
+            "role": "Master-Beauftragte",
+            "names": "Andi, Lea",
+            "description": "Ansprechpartner für alle Masterstudierenden."
+        },
+        {
+            "role": "Lernstoffbeauftragte",
+            "names": "Theresa",
+            "description": "Wir kümmern uns dieses Jahr um unsere Altklausursammlung, ordnen sie neu und versuche sie aktuell zu halten. Deswegen würden wir uns über neue Klausurmitschriften o.ä. freuen."
+        },
+        {
+            "role": "Logistiker",
+            "names": "Luis, Matteo",
+            "description": "Alles steigt und fällt mit der Logistik! Damit niemand auf dem Trockenen sitzen oder Hunger schieben muss, kümmern wir uns um eure Versorgung!"
+        },
+        {
+            "role": "FK",
+            "names": "Rotierendes System",
+            "description": "In einem rotierendem System vertreten wir die Fachschaft Geoinformatik einmal die Woche bei der Fachschaftenkonferenz, um uns mit den anderen Fachschaften der Uni auszutauschen und unsere Fachschaft so immer auf dem Laufenden zu halten."
+        },
+        {
+            "role": "NaWi-FK",
+            "names": "Finja, Lukas",
+            "description": "Die NaWi-FK ist ein monatliches Treffen der naturwissenschaftlichen Fachschaften. Hier tauschen wir uns also z.B. mit der Fachschaft Mathe/Info, den Physikern etc. und seit neustem die Mediziner aus."
+        },
+        {
+            "role": "Newsletter-Beauftragter (dekomissioniert)",
+            "names": "",
+            "description": "Hier werden in der Regel großartige Newsletter geschrieben um euch mit allen (wichtigen/interessanten) Infos rund um die Uni, Jobangebote und natürlich diverse Partys durchzufüttern."
+        },
+        {
+            "role": "Website-Beauftragte",
+            "names": "Humam, Matteo",
+            "description": "Wir geben unser Bestes, diese Webseite aktuell zu halten und euch über alles wichtige zu informieren!"
+        },
+        {
+            "role": "Social-Media-Beauftragte",
+            "names": "Emil, Lukas",
+            "description": "Wir geben unser Bestes, euch in den sozialen Netzwerken mit Infos über unsere Arbeit und natürlich von uns organisierte Veranstaltungen zu versorgen."
+        },
+        {
+            "role": "Paintmaster",
+            "names": "Kathi, Emil",
+            "description": "Wir holen sämtliche Kreativität und krasse Bildbearbeitungswerkzeuge aus der Trickkiste und kümmern uns als „Paintmaster“ um die diversen Plakate, die vor jeder Fachschafts-Veranstaltung das GEO verschönern."
+        },
+        {
+            "role": "Merchandise",
+            "names": "Lotta, Humam",
+            "description": "Wir  machen die coolen Pullis und T-Shirts!"
+        },
+        {
+            "role": "Raumwart",
+            "names": "Lotta, Flo",
+            "description": "Ich kümmere mich um unseren Fachschaftsraum – Ordnung muss einfach sein."
+        },
+        {
+            "role": "SfVuFvfSuoS",
+            "names": "Humam",
+            "description": "Diese fancy Abkürzung steht für „Sonderbeauftragter für Verbreitung und Förderung von freier Software und offenen Standards“ — hooray!"
+        },
+        {
+            "role": "Server-Boys*innen",
+            "names": "Humam, Andi, (Jonas, Christoph, Specki, Norwin)",
+            "description": "Wir kümmern uns um alles, was unter geofs.uni-muenster.de läuft sowie die Hardware der Fachschaft."
+        },
+        {
+            "role": "Weihnachts-AK-Beauftragte",
+            "names": "Floooooooorian, Lea, Kathi, Lukas",
+            "description": "Wir kümmern uns um die Organisation der weihnachtlichen Veranstaltungen wie z.B. das Baumschmücken oder die große Weihnachtsfeier im Hörsaal."
+        },
+        {
+            "role": "Fachschaftsfahrt-Beauftragte",
+            "names": "Andi, Finja",
+            "description": "Wir kümmern uns um die Organisation der Fachschaftsfahrt. Jedes Jahr fahren die beiden Fachschaften Geoinformatik und GeoLök auf Fachschaftsfahrt um sich zu vernetzen und Veranstaltungen zu planen."
+        },
+        {
+            "role": "Geoparty-Beauftragte",
+            "names": "Andi, Emil",
+            "description": "Wir veranstalten einmal im Semester die legendäre Geoparty."
+        },
+        {
+            "role": "Vernetzungs-Beauftragter",
+            "names": "Lukas",
+            "description": "Wir sorgen dafür, dass sich Fachschaftler und Studierende am Fachbereich 14 (Geowissenschaften) durch gemeinsame Aktionen besser kennenlernen."
+        },
+        {
+            "role": "Schlüsselbeauftragter",
+            "names": "Andi, Emil",
+            "description": "Wir kümmern uns darum, dass alle aktiven Fachschaftler Zugang zum Fachschaftsraum haben."
+        },
+        {
+            "role": "GeoScienceDay-Beauftragte",
+            "names": "Theresa, Lotta",
+            "description": "Jedes Jahr findet am Fachbereich 14 (Geowissenschaften) ein Tag statt, an dem zunächst mal keine Lehre stattfindet (Whoop Whoop). Der Grund dafür ist, dass sich an diesem Tag alle Beteiligten am FB 14 durch gemeinsame Aktionen wie Absolvent*innen Feier, Vorträge, Grillen,(Science Slam) etc. besser kennen lernen sollen. Wir kümmern uns um die Organisation dieses Tages und vor allem darum, dass ihr jederzeit mit Flüssigkeiten versorgt seid (findet im Hochsommer statt, da soll man viel Wasser trinken ;))."
+        },
+        {
+            "role": "Software-Praktikum-Beauftragter (dekomissioniert)",
+            "names": "",
+            "description": "Jedes Jahr wird gegen Ende der vorlesungsfreien Zeit im Wintersemester ein Kurs der Fachschaft veranstaltet, in dem ihr in einer Art Praktikum zwei Wochen aktiv an einem Softwareprojekt arbeiten könnt. Ich kümmere mich darum, dass bei der Organisation des Kurses alles reibungslos verläuft. Mehr Infos dazu findet ihr hier."
+        },
+        {
+            "role": "Advanced-GIS-Beauftragte",
+            "names": "Humam, Julius",
+            "description": "Jedes Jahr wird gegen Ende der vorlesungsfreien Zeit im Sommersemester ein Kurs von der Fachschaft veranstaltet, in dem ihr eure Kenntnisse in Geoinformationssystem vertiefen könnt. Ich kümmere mich darum, dass bei der Organisation alles reibungslos verläuft. Mehr Infos dazu findet ihr hier."
+        },
+        {
+            "role": "Gleichstellungsbeauftragte",
+            "names": "Lea, Kathi",
+            "description": "Wir versuchen die Gleichstellung in der FS und im Fachbereich 14 auf struktureller und personeller Ebene zu verbessern."
+        },
+        {
+            "role": "Wahlbeauftragte",
+            "names": "Der Vorstand (die Vorsitzenden)",
+            "description": "Alljährlich haben alle Studierende der Geoinformatik die Möglichkeit die Fachschaftsvertretung zu wählen, die dann wiederum die hier aufgeführten Beauftragten wählt. Ich kümmere, dass rechtzeitig Kandidaten für die Wahl gefunden werden und dass jeder rechtzeitig Bescheid weiß, wann die Wahl stattfindet."
+        },
+        {
+            "role": "Vollversammlung-Beauftragte",
+            "names": "Der Vorstand (die Vorsitzenden)",
+            "description": "Einmal im Jahr kommen alle Studierenden der Geoinformatik an der WWU zur Vollversammlung zusammen. Bei dieser Versammlung gibt die Fachschaft einen Rückblick auf das vergangene Semester, erzählt von zukünftigen Veranstaltungen und zudem ist Platz für weitere spontane Themen, welche den Studierenden auf dem Herzen legen. Nicht zu vergessen: Am Ende gibts HotDogs für alle!!!"
+        },
+        {
+            "role": "Collaboration-Workshop-Beauftragte (dekomissioniert)",
+            "names": "",
+            "description": "Wir setzten uns dafür ein, dass es in naher Zukunft einen Learnweb-Kurs geben wird, in dem Inhalte wie GIT, Kanban, Docker, Agile Methoden, Teamwork (Retroperspektive) und Shared Storage gelehrt werden. Beim Collaboration Workshop handelt es sich um einen Kurs, der durch Qualitätsverbesserungsmittel finanziert wird."
+        },
+        {
+            "role": "BkB",
+            "names": "Andi, Florian",
+            "description": "Wir kümmern uns darum, dass den FSlern und Studierenden der Geoinformatik zu jeder Zeit genügend Boonekamp zur Verfügung steht."
+        },
+        {
+            "role": "OkB",
+            "names": "Lukas, Julius, Humam, Lea",
+            "description": "Wir kümmern uns darum, dass den FSlern und Studierenden der Geoinformatik zu jeder Zeit genügend Ohnekamp zur Verfügung steht."
+        },
+        {
+            "role": "Entleihwart",
+            "names": "Luis, Lukas",
+            "description": "Mittlerweile hat die Fachschaft ein größeres Sammelsorium an Gegenständen angesammelt, die man sich leihen kann, dazu zählen z.B. Ladekabel, ein Mikrofon, eine Biergartenkombination etc. Wer Interesse hat sich eine der genannten Gegenstände einmal auszuleihen, kann sich gerne bei mir melden."
+        },
+        {
+            "role": "Studiendekan*innen-Treffen-Beauftragte",
+            "names": "Lukas, Flo, Humam, Lotta",
+            "description": "Wir treffen uns mehrere Male im Semester mit dem Studiendekan des Fachbereichs 14. In diesen Treffen besprechen wir alle relevanten Themen, die von Studierenden an uns herangetragen wurden."
+        },
+	    {
+	        "role": "Brandschutzbeauftragte",
+	        "names": "Luis",
+	        "description": "Ich bin dafür verantwortlich, dass uns beim gemeinsamen Grillen nicht das GEO abfackelt"
+	    }
+    ]
+}

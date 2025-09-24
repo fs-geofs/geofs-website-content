@@ -1,0 +1,96 @@
+{
+    "montag": {
+        "8": null,
+        "10": null,
+        "12": {
+            "title": "VL Analysis für Informatiker",
+            "location": "M1",
+            "address": "Einsteinstr. 64",
+            "qisserverlink": "https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=440789&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung",
+            "learnweblink": "https://www.uni-muenster.de/LearnWeb/learnweb2/enrol/index.php?id=88042"
+        },
+        "14": {
+            "title": "VL Informatik 1",
+            "location": "M1 & M3",
+            "address": "Einsteinstr. 64",
+            "qisserverlink": "",
+            "learnweblink": ""
+        },
+        "16": null,
+        "18": {
+            "title": "GIS-Grundkurs",
+            "location": "GEO1, StudLab-125, 126, 130",
+            "address": "Heisenbergstr. 2",
+            "qisserverlink": "https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=447069&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung",
+            "learnweblink": ""
+        }
+    },
+    "dienstag": {
+        "8": null,
+        "10": {
+            "title": "VL Einführung in die Geoinformatik",
+            "location": "GEO1, Hörsaal",
+            "address": "Heisenbergstr. 2",
+            "qisserverlink": "https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=447067&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung",
+            "learnweblink": "https://www.uni-muenster.de/LearnWeb/learnweb2/enrol/index.php?id=87374"
+        },
+        "12": null,
+        "14": null,
+        "16": null,
+        "18": null
+    },
+    "mittwoch": {
+        "8": null,
+        "10": null,
+        "12": {
+            "title": "Ü Einführung in die Geoinformatik",
+            "location": "GEO1, StudLab-130",
+            "address": "Heisenbergstr. 2",
+            "qisserverlink": "https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=447068&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung",
+            "learnweblink": ""
+        },
+        "14": null,
+        "16": {
+            "title": "Mathe-Ergänzungskurs",
+            "location": "GEO1, noch unbekannt",
+            "address": "Heisenbergstr. 2",
+            "qisserverlink": "",
+            "learnweblink": ""
+        },
+        "18": null
+    },
+    "donnerstag": {
+        "8": null,
+        "10": null,
+        "12": {
+            "title": "VL Analysis für Informatiker",
+            "location": "M1",
+            "address": "Einsteinstr. 64",
+            "qisserverlink": "https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=440789&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung",
+            "learnweblink": "https://www.uni-muenster.de/LearnWeb/learnweb2/enrol/index.php?id=88042"
+        },
+        "14": {
+            "title": "VL Informatik 1",
+            "location": "M1 & M3",
+            "address": "Einsteinstr. 64",
+            "qisserverlink": "",
+            "learnweblink": ""
+        },
+        "16": {
+            "title": "Einführung in Java",
+            "location": "M2",
+            "address": "Einsteinstr. 64",
+            "qisserverlink": "https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=447456&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung",
+            "learnweblink": "https://www.uni-muenster.de/LearnWeb/learnweb2/enrol/index.php?id=87518"
+        },
+        "18": null
+    },
+    "freitag": {
+        "8": null,
+        "10": null,
+        "12": null,
+        "14": null,
+        "16": null,
+        "18": null
+    }
+}

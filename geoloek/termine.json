@@ -1,0 +1,32 @@
+{
+  "stand": "01.10.2024",
+  "fstermine": [
+    {
+      "date": "07.10.2024 - 07.02.2024",
+      "description": "Vorlesungszeit WiSe 24/25",
+      "infolink": null
+    },
+    {
+      "date": "07.11.2024",
+      "description": "Geoparty",
+      "infolink": null
+    },
+    {
+      "date": "11.12.2024",
+      "description": "Weihnachtsfeier im GEO",
+      "infolink": null
+    }
+  ],
+  "other": [
+    {
+      "date": "Donenrstags 10-14 Uhr",
+      "description": "Donnerstags 10-14 Uhr",
+      "infolink": "https://www.uni-muenster.de/Nachhaltigkeit/brotzeitkolloquium.html"
+    },
+    {
+      "date": "Jeden letzten Freitag im Monat",
+      "description": "Offene Gesprächsrunde zum Thema \"Studieren mit Autismus\"",
+      "infolink": null
+    }
+  ]
+}
