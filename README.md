@@ -4,6 +4,8 @@ Repository for all dynamic content shown at geofs homepage.
 
 ## How to update content
 
+- TODO
+
 ## Troubleshoot
 
 ### Website does not update after content was pushed/merged on main successfully
