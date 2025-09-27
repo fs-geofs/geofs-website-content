@@ -4,8 +4,6 @@ Repository for all dynamic content shown at geofs homepage.
 
 ## How to update content
 
-- TODO
-- TODO
 
 ## Troubleshoot
 
