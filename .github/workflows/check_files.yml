@@ -1,0 +1,41 @@
+name: Check files against schema
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      -main
+  push:
+    branches:
+      -main
+  
+
+env:
+  BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+  GITHUB_CONTENT_REPO: fs-geofs/geofs-website-content
+  GITHUB_WEBHOOK_SECRET: xxxxx
+
+jobs:
+  build-and-push-image:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          repsitory: fs-geofs/geofs-website-backend
+          ref: main
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install UV
+        run: pip install UV
+      
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Validate files
+        run: uv run python validate_github_datafiles.py
