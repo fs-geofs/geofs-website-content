@@ -16,14 +16,14 @@ env:
   GITHUB_WEBHOOK_SECRET: xxxxx
 
 jobs:
-  build-and-push-image:
+  check-datafiles:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
-          repsitory: fs-geofs/geofs-website-backend
+          repository: fs-geofs/geofs-website-backend
           ref: main
       
       - name: Set up Python
