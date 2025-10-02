@@ -1,7 +1,7 @@
 {
-    "year": "2024/25",
-    "start": "04.10.2024",
-    "end": "07.10.2024",
+    "year": "2025/26",
+    "start": "06.10.2025",
+    "end": "10.10.2025",
     "schedule": {
         "montag": {
             "9": null,
@@ -15,7 +15,7 @@
             },
             "12": {
                 "title": "Mentorengruppen",
-                "detail": null
+                "detail": "GEO1"
             },
             "13": {
                 "title": "Mittagessen",
@@ -23,7 +23,7 @@
             },
             "14": {
                 "title": "Vorstellung Stundenplan",
-                "detail": null
+                "detail": "GEO1"
             },
             "15": {
                 "title": "Vorstellung Stundenplan",
@@ -38,22 +38,22 @@
             },
             "20": {
                 "title": "Spieleabend",
-                "detail": "GEO1"
+                "detail": null
             },
             "21": {
                 "title": "Spieleabend",
-                "detail": "GEO1"
+                "detail": null
             }
         },
         "dienstag": {
             "9": null,
             "10": {
                 "title": "Geo-Brunch",
-                "detail": "ab 10:30, Lichthof und Lernatelier GEO1"
+                "detail": "ab 10:30 im GEO1, nach Anmeldung"
             },
             "11": {
                 "title": "Stadtrallye",
-                "detail": "ab 11:30, Start GEO1"
+                "detail": "ab 11:30, Treffpunkt GEO1"
             },
             "12": {
                 "title": "Stadtrallye",
@@ -89,30 +89,21 @@
             "10": null,
             "11": null,
             "12": null,
-            "13": {
-                "title": "Vorstellung Stundenplan",
-                "detail": "und Fragestunde"
-            },
+            "13": null,
             "14": {
-                "title": "Vorstellung Stundenplan",
-                "detail": null
+                "title": "Wiederholung Vorstellung Stundenplan",
+                "detail": "GEO1"
             },
-            "15": {
-                "title": "Vorstellung Stundenplan",
-                "detail": null
-            },
+            "15": null,
             "16": {
-                "title": "Vorstellung allg. Studien",
-                "detail": null
+                "title": "Vorstellung Allgemeine Studien",
+                "detail": "nicht für Lehramt Gym/Ges, GEO1"
             },
-            "17": {
-                "title": "Fragestunde Geo",
-                "detail": null
-            },
+            "17": null,
             "18": null,
             "19": {
                 "title": "Filmabend",
-                "detail": "GEO1"
+                "detail": "GEO1, HS"
             },
             "20": {
                 "title": "Filmabend",
@@ -128,19 +119,19 @@
             "10": null,
             "11": null,
             "12": {
-                "title": "Exkursion",
-                "detail": null
+                "title": "Exkursionen",
+                "detail": "Treffpunkt noch offen..."
             },
             "13": {
-                "title": "Exkursion",
+                "title": "Exkursionen",
                 "detail": null
             },
             "14": {
-                "title": "Exkursion",
+                "title": "Exkursionen",
                 "detail": null
             },
             "15": {
-                "title": "Exkursion",
+                "title": "Exkursionen",
                 "detail": null
             },
             "16": null,
@@ -163,7 +154,7 @@
             "9": null,
             "10": null,
             "11": {
-                "title": "Anmeldung ErstiWE",
+                "title": "Anmeldung Ersti-Fahrt",
                 "detail": "GEO1"
             },
             "12": {
@@ -178,7 +169,10 @@
                 "title": "Vorstellung Organisationen",
                 "detail": null
             },
-            "15": null,
+            "15": {
+                "title": "Kaffe & Kuchen",
+                "detail": "GEO1"
+            },
             "16": null,
             "17": null,
             "18": null,
@@ -219,18 +213,6 @@
             "osmlink": null
         },
         {
-            "title": "323, 401, 513",
-            "erklaerung": "Raumnummern der Seminarräume im 3., 4., un 5. Stock",
-            "detail": null,
-            "osmlink": null
-        },
-        {
-            "title": "StudLab",
-            "erklaerung": "Computerräume im 1. OG des GEO1",
-            "detail": null,
-            "osmlink": null
-        },
-        {
             "title": "Mensa am Ring",
             "erklaerung": "Große Mensa am Coesfeler Kreuz, wir gehen gemeinsam hin",
             "detail": null,
@@ -250,7 +232,7 @@
         },
         {
             "title": "Shooter Stars",
-            "erklaerung": "Gemeinsamer Kneipenabend zum Abschluss",
+            "erklaerung": "Adresse: Alter Steinweg 36",
             "detail": null,
             "osmlink": null
         }
