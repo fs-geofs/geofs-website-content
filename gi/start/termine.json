@@ -1,43 +1,13 @@
 [
     {
-        "was": "Semesterbeginn",
-        "von": "01.10.2025",
+        "was": "GEO Weihnachtsschmücken",
+        "von": "04.12.2025",
         "bis": null
     },
     {
-        "was": "Ersti-Woche für den Bachelor",
-        "von": "06.10.2025",
-        "bis": "10.10.2025"
-    },
-    {
-        "was": "Vorlesungsbeginn",
-        "von": "13.10.2025",
+        "was": "GEO Weihnachtsfeier",
+        "von": "10.12.2025",
         "bis": null
-    },
-    {
-        "was": "Beginn der zentralen Anmeldephase für Studien- und Prüfungsleistungen",
-        "von": "27.10.2025",
-        "bis": null
-    },
-    {
-        "was": "Geoscience Day",
-        "von": "30.10.2025",
-        "bis": null
-    },
-    {
-        "was": "NaWi-Party in der Sputnikhalle",
-        "von": "12.11.2025",
-        "bis": null
-    },
-    {
-        "was": "Geo-Party in der Gazelle",
-        "von": "13.11.2025",
-        "bis": null
-    },
-    {
-        "was": "Ersti-Wochenende",
-        "von": "21.11.2025",
-        "bis": "23.11.2025"
     },
     {
         "was": "Ende der zentralen Anmeldephase für Studien- und Prüfungsleistungen",
@@ -53,6 +23,11 @@
         "was": "Weihnachtsferien",
         "von": "22.12.2025",
         "bis": "06.01.2026"
+    },
+    {
+        "was": "Semestertalk",
+        "von": "07.01.2026, 15:30 Uhr, GEO309",
+        "bis": null
     },
     {
         "was": "Vorlesungsende",
